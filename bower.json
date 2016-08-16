@@ -1,0 +1,19 @@
+{
+  "name": "corporate-wordpress-theme",
+  "homepage": "https://github.com/ankurk91/corporate-wordpress-theme",
+  "description": "WordPress Theme",
+  "main": "",
+  "license": "MIT",
+  "dependencies": {
+    "font-awesome": "~4.6.3",
+    "jquery": "~3.1.1",
+    "cycle": "https://github.com/malsup/cycle.git#3.0.3-a"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
